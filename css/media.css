@@ -1,0 +1,21 @@
+@media screen and (max-width: 992px) {
+    .container {
+        max-width: 100%;
+    }
+    body {
+        background: #000;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    body {
+        background: #000;
+    }
+}
+@media screen and (max-width: 576px) {
+
+    body {
+        background: #000;
+    }
+}
